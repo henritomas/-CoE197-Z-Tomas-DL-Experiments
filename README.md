@@ -4,4 +4,4 @@ Deep Learning experiments, code, submissions made for the CoE 197-Z Deep Learnin
 **Homework 1: CNN vs MLP on CIFAR-10 Dataset**
 - CNN: [My 3-Layer CNN on CIFAR-10](https://github.com/henritomas/CoE197-Z-Tomas-DL-Experiments/blob/master/%5BCoE_197_Z%5D_My_3_Layer_CNN_on_CIFAR_10.ipynb)
 - MLP: [My 3-Layer-MLP on CIFAR-10](https://github.com/henritomas/CoE197-Z-Tomas-DL-Experiments/blob/master/%5BCOE_197_Z%5D_My_3_Layer_MLP_on_CIFAR_10.ipynb)
-- Performance Comparison : 
+-  [CNN vs MLP Performance Comparison](https://github.com/henritomas/CoE197-Z-Tomas-DL-Experiments/blob/master/%5BCOE_197_Z%5D_CNN_vs_MLP_Comparison.ipynb)
