@@ -9,3 +9,4 @@ Deep Learning experiments, code, submissions made for the UP EEEI CoE 197-Z Deep
 **Project 1: DrivenData Competition: Heart-Disease Prediction**
 - [Final Model](https://github.com/henritomas/CoE197-Z-Tomas-DL-Experiments/blob/master/%5BCoE_197_Z%5D_Project_1_Heart_Disease_Prediction_FINAL.ipynb) 
 - [Driven Data Competition](https://www.drivendata.org/competitions/54/machine-learning-with-a-heart/)
+- [Competition Leaderboard](https://imgur.com/a/GapwRXM) : Dog-Not-Dog
